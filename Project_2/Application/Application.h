@@ -7,6 +7,7 @@
 #include "../ECUAL/LED_Driver/LED.h"
 #include "../ECUAL/Button_Driver/Button.h"
 #include "../Utilitis/Registers.h"
+#include "../Utilitis/Interrupts.h"
 /*Function Prototypes*/
 void APP_init(void);
 void APP_start(void);
