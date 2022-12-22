@@ -6,8 +6,6 @@
 
 #include "../ECUAL/LED_Driver/LED.h"
 #include "../ECUAL/Button_Driver/Button.h"
-#include "../MCAL/Timer_Driver/Timer.h"
-#include "../MCAL/Interrupts/Interrupts.h"
 #include "../Utilitis/Registers.h"
 /*Function Prototypes*/
 void APP_init(void);
